@@ -1,0 +1,33 @@
+{
+  "name": "express-co2emission",
+  "version": "1.0.0",
+  "description": "A CO2 calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -build",
+    "start": "tsc -build & node dist/index.js",
+    "serve": "nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/das-sukriti/node-express-Co2Emission.git"
+  },
+  "author": "Sukriti Das",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/das-sukriti/node-express-Co2Emission/issues"
+  },
+  "homepage": "https://github.com/das-sukriti/node-express-Co2Emission#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.12",
+    "@types/node": "^15.12.4",
+    "nodemon": "^2.0.7",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  }
+}

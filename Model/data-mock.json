@@ -1,0 +1,426 @@
+{ 
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9708,
+          40.68295
+        ]
+      },
+      "properties": {
+        "id": "85977539",
+        "gid": "whosonfirst:locality:85977539",
+        "layer": "locality",
+        "source": "whosonfirst",
+        "source_id": "85977539",
+        "name": "New York",
+        "confidence": 0.6,
+        "match_type": "fallback",
+        "accuracy": "centroid",
+        "country": "United States",
+        "country_gid": "whosonfirst:country:85633793",
+        "country_a": "USA",
+        "region": "New York",
+        "region_gid": "whosonfirst:region:85688543",
+        "region_a": "NY",
+        "county": "Kings County",
+        "county_gid": "whosonfirst:county:102082361",
+        "county_a": "BK",
+        "locality": "New York",
+        "locality_gid": "whosonfirst:locality:85977539",
+        "locality_a": "NYC",
+        "continent": "North America",
+        "continent_gid": "whosonfirst:continent:102191575",
+        "label": "New York, NY, USA",
+        "index": 0
+      },
+      "bbox": [
+        -74.255591,
+        40.496134,
+        -73.700009,
+        40.915533
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.586323,
+          40.870084
+        ]
+      },
+      "properties": {
+        "id": "85973605",
+        "gid": "whosonfirst:locality:85973605",
+        "layer": "locality",
+        "source": "whosonfirst",
+        "source_id": "85973605",
+        "name": "York",
+        "confidence": 0.6,
+        "match_type": "fallback",
+        "accuracy": "centroid",
+        "country": "United States",
+        "country_gid": "whosonfirst:country:85633793",
+        "country_a": "USA",
+        "region": "Nebraska",
+        "region_gid": "whosonfirst:region:85688563",
+        "region_a": "NE",
+        "county": "York County",
+        "county_gid": "whosonfirst:county:102083493",
+        "county_a": "YO",
+        "localadmin": "York",
+        "localadmin_gid": "whosonfirst:localadmin:404520845",
+        "locality": "York",
+        "locality_gid": "whosonfirst:locality:85973605",
+        "continent": "North America",
+        "continent_gid": "whosonfirst:continent:102191575",
+        "label": "York, NE, USA",
+        "index": 1
+      },
+      "bbox": [
+        -97.635381,
+        40.812545,
+        -97.563456,
+        40.907466
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13333,
+          18.11667
+        ]
+      },
+      "properties": {
+        "id": "1344041385",
+        "gid": "whosonfirst:locality:1344041385",
+        "layer": "locality",
+        "source": "whosonfirst",
+        "source_id": "1344041385",
+        "name": "New York",
+        "confidence": 0.6,
+        "match_type": "fallback",
+        "accuracy": "centroid",
+        "country": "Jamaica",
+        "country_gid": "whosonfirst:country:85632215",
+        "country_a": "JAM",
+        "region": "Saint Catherine",
+        "region_gid": "whosonfirst:region:85672601",
+        "region_a": "SC",
+        "locality": "New York",
+        "locality_gid": "whosonfirst:locality:1344041385",
+        "continent": "North America",
+        "continent_gid": "whosonfirst:continent:102191575",
+        "label": "New York, SC, Jamaica",
+        "index": 2
+      },
+      "bbox": [
+        -77.15333,
+        18.09667,
+        -77.11333,
+        18.13667
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23333,
+          16.26667
+        ]
+      },
+      "properties": {
+        "id": "1343654809",
+        "gid": "whosonfirst:locality:1343654809",
+        "layer": "locality",
+        "source": "whosonfirst",
+        "source_id": "1343654809",
+        "name": "Nueva York",
+        "confidence": 0.6,
+        "match_type": "fallback",
+        "accuracy": "centroid",
+        "country": "Mexico",
+        "country_gid": "whosonfirst:country:85633293",
+        "country_a": "MEX",
+        "region": "Chiapas",
+        "region_gid": "whosonfirst:region:85686611",
+        "region_a": "CHP",
+        "county": "Villaflores",
+        "county_gid": "whosonfirst:county:102075653",
+        "county_a": "VF",
+        "locality": "Nueva York",
+        "locality_gid": "whosonfirst:locality:1343654809",
+        "continent": "North America",
+        "continent_gid": "whosonfirst:continent:102191575",
+        "label": "Nueva York, CHP, Mexico",
+        "index": 3
+      },
+      "bbox": [
+        -93.25333,
+        16.24667,
+        -93.21333,
+        16.28667
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.14834,
+          35.4998
+        ]
+      },
+      "properties": {
+        "id": "1327359763",
+        "gid": "whosonfirst:locality:1327359763",
+        "layer": "locality",
+        "source": "whosonfirst",
+        "source_id": "1327359763",
+        "name": "Scotts Mill",
+        "confidence": 0.6,
+        "match_type": "fallback",
+        "accuracy": "centroid",
+        "country": "United States",
+        "country_gid": "whosonfirst:country:85633793",
+        "country_a": "USA",
+        "region": "Tennessee",
+        "region_gid": "whosonfirst:region:85688701",
+        "region_a": "TN",
+        "county": "Maury County",
+        "county_gid": "whosonfirst:county:102087107",
+        "county_a": "MU",
+        "locality": "Scotts Mill",
+        "locality_gid": "whosonfirst:locality:1327359763",
+        "continent": "North America",
+        "continent_gid": "whosonfirst:continent:102191575",
+        "label": "Scotts Mill, TN, USA",
+        "index": 4
+      },
+      "bbox": [
+        -87.16834,
+        35.4798,
+        -87.12834,
+        35.5198
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66913,
+          32.16793
+        ]
+      },
+      "properties": {
+        "id": "1293799993",
+        "gid": "whosonfirst:locality:1293799993",
+        "layer": "locality",
+        "source": "whosonfirst",
+        "source_id": "1293799993",
+        "name": "New York",
+        "confidence": 0.6,
+        "match_type": "fallback",
+        "accuracy": "centroid",
+        "country": "United States",
+        "country_gid": "whosonfirst:country:85633793",
+        "country_a": "USA",
+        "region": "Texas",
+        "region_gid": "whosonfirst:region:85688753",
+        "region_a": "TX",
+        "county": "Henderson County",
+        "county_gid": "whosonfirst:county:102086741",
+        "county_a": "HD",
+        "locality": "New York",
+        "locality_gid": "whosonfirst:locality:1293799993",
+        "continent": "North America",
+        "continent_gid": "whosonfirst:continent:102191575",
+        "label": "New York, TX, USA",
+        "index": 5
+      },
+      "bbox": [
+        -95.68913,
+        32.14793,
+        -95.64913,
+        32.18793
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.75193,
+          46.7216
+        ]
+      },
+      "properties": {
+        "id": "1276668905",
+        "gid": "whosonfirst:locality:1276668905",
+        "layer": "locality",
+        "source": "whosonfirst",
+        "source_id": "1276668905",
+        "name": "York",
+        "confidence": 0.6,
+        "match_type": "fallback",
+        "accuracy": "centroid",
+        "country": "United States",
+        "country_gid": "whosonfirst:country:85633793",
+        "country_a": "USA",
+        "region": "Montana",
+        "region_gid": "whosonfirst:region:85688617",
+        "region_a": "MT",
+        "county": "Lewis and Clark County",
+        "county_gid": "whosonfirst:county:102085151",
+        "county_a": "LE",
+        "locality": "York",
+        "locality_gid": "whosonfirst:locality:1276668905",
+        "continent": "North America",
+        "continent_gid": "whosonfirst:continent:102191575",
+        "label": "York, MT, USA",
+        "index": 6
+      },
+      "bbox": [
+        -111.77193,
+        46.7016,
+        -111.73193,
+        46.7416
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25993,
+          40.85167
+        ]
+      },
+      "properties": {
+        "id": "1243198273",
+        "gid": "whosonfirst:locality:1243198273",
+        "layer": "locality",
+        "source": "whosonfirst",
+        "source_id": "1243198273",
+        "name": "New York",
+        "confidence": 0.6,
+        "match_type": "fallback",
+        "accuracy": "centroid",
+        "country": "United States",
+        "country_gid": "whosonfirst:country:85633793",
+        "country_a": "USA",
+        "region": "Iowa",
+        "region_gid": "whosonfirst:region:85688713",
+        "region_a": "IA",
+        "county": "Wayne County",
+        "county_gid": "whosonfirst:county:102086591",
+        "county_a": "WY",
+        "locality": "New York",
+        "locality_gid": "whosonfirst:locality:1243198273",
+        "continent": "North America",
+        "continent_gid": "whosonfirst:continent:102191575",
+        "label": "New York, IA, USA",
+        "index": 7
+      },
+      "bbox": [
+        -93.27993,
+        40.83167,
+        -93.23993,
+        40.87167
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15047,
+          40.877
+        ]
+      },
+      "properties": {
+        "id": "1226767263",
+        "gid": "whosonfirst:locality:1226767263",
+        "layer": "locality",
+        "source": "whosonfirst",
+        "source_id": "1226767263",
+        "name": "Seal",
+        "confidence": 0.6,
+        "match_type": "fallback",
+        "accuracy": "centroid",
+        "country": "United States",
+        "country_gid": "whosonfirst:country:85633793",
+        "country_a": "USA",
+        "region": "Ohio",
+        "region_gid": "whosonfirst:region:85688485",
+        "region_a": "OH",
+        "county": "Wyandot County",
+        "county_gid": "whosonfirst:county:102083695",
+        "county_a": "WD",
+        "localadmin": "Eden Township",
+        "localadmin_gid": "whosonfirst:localadmin:404526535",
+        "locality": "Seal",
+        "locality_gid": "whosonfirst:locality:1226767263",
+        "continent": "North America",
+        "continent_gid": "whosonfirst:continent:102191575",
+        "label": "Seal, OH, USA",
+        "index": 8
+      },
+      "bbox": [
+        -83.17047,
+        40.857,
+        -83.13047,
+        40.897
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95256,
+          36.98894
+        ]
+      },
+      "properties": {
+        "id": "1209933893",
+        "gid": "whosonfirst:locality:1209933893",
+        "layer": "locality",
+        "source": "whosonfirst",
+        "source_id": "1209933893",
+        "name": "New York",
+        "confidence": 0.6,
+        "match_type": "fallback",
+        "accuracy": "centroid",
+        "country": "United States",
+        "country_gid": "whosonfirst:country:85633793",
+        "country_a": "USA",
+        "region": "Kentucky",
+        "region_gid": "whosonfirst:region:85688641",
+        "region_a": "KY",
+        "county": "Ballard County",
+        "county_gid": "whosonfirst:county:102084567",
+        "county_a": "BA",
+        "locality": "New York",
+        "locality_gid": "whosonfirst:locality:1209933893",
+        "continent": "North America",
+        "continent_gid": "whosonfirst:continent:102191575",
+        "label": "New York, KY, USA",
+        "index": 9
+      },
+      "bbox": [
+        -88.97256,
+        36.96894,
+        -88.93256,
+        37.00894
+      ]
+    }
+  ]
+}
